@@ -1,0 +1,119 @@
+/* hind-siliguri-regular - latin */
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/hind-siliguri-v12-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/hind-siliguri-v12-latin-regular.eot?#iefix')
+            format('embedded-opentype'),
+        /* IE6-IE8 */ url('../fonts/hind-siliguri-v12-latin-regular.woff2')
+            format('woff2'),
+        /* Super Modern Browsers */
+            url('../fonts/hind-siliguri-v12-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+            url('../fonts/hind-siliguri-v12-latin-regular.ttf')
+            format('truetype'),
+        /* Safari, Android, iOS */
+            url('../fonts/hind-siliguri-v12-latin-regular.svg#HindSiliguri')
+            format('svg'); /* Legacy iOS */
+}
+/* hind-siliguri-500 - latin */
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/hind-siliguri-v12-latin-500.eot'); /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/hind-siliguri-v12-latin-500.eot?#iefix')
+            format('embedded-opentype'),
+        /* IE6-IE8 */ url('../fonts/hind-siliguri-v12-latin-500.woff2')
+            format('woff2'),
+        /* Super Modern Browsers */
+            url('../fonts/hind-siliguri-v12-latin-500.woff') format('woff'),
+        /* Modern Browsers */ url('../fonts/hind-siliguri-v12-latin-500.ttf')
+            format('truetype'),
+        /* Safari, Android, iOS */
+            url('../fonts/hind-siliguri-v12-latin-500.svg#HindSiliguri')
+            format('svg'); /* Legacy iOS */
+}
+/* hind-siliguri-600 - latin */
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/hind-siliguri-v12-latin-600.eot'); /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/hind-siliguri-v12-latin-600.eot?#iefix')
+            format('embedded-opentype'),
+        /* IE6-IE8 */ url('../fonts/hind-siliguri-v12-latin-600.woff2')
+            format('woff2'),
+        /* Super Modern Browsers */
+            url('../fonts/hind-siliguri-v12-latin-600.woff') format('woff'),
+        /* Modern Browsers */ url('../fonts/hind-siliguri-v12-latin-600.ttf')
+            format('truetype'),
+        /* Safari, Android, iOS */
+            url('../fonts/hind-siliguri-v12-latin-600.svg#HindSiliguri')
+            format('svg'); /* Legacy iOS */
+}
+
+body {
+    width: 1140px;
+    margin: 15px;
+    font-style: 'Hind Siliguri;
+
+}
+
+.wrapper{
+    display: flex;
+    color: #F4F9FC;
+    height: 296px;
+}
+
+.telecopt, .camera{
+    background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-right: 30px;
+    width: 555px;
+    
+}
+
+.telecopt__img, .telecopt__img{
+    position: relative
+    top;
+}
+
+.telecopt, .camera{
+    padding-left: 30px;
+}
+
+p{
+    margin: 0px;
+    padding-top: 75px;
+}
+
+h2 {
+    margin-top:5px;
+    margin-bottom: 7px;
+
+}
+
+.telecopter__sub-discription, .camera__sub-discription{
+    padding-top: 0px;
+}
+
+.wrap-telecopt, .wrap-camera{
+    padding-right: 279px;
+}
+
+.telecopt__img {
+    position: relative;
+    top: -210px;
+    left: 234px;
+}
+
+.camera__img{
+    position: relative;
+    top: -150px;
+    left: 234px;
+}
